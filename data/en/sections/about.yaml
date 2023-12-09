@@ -30,32 +30,20 @@ my skills. My goal is to use data to make a positive impact on society and the w
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "tauilabdelilah97@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/TAUIL-Abd-Elilah"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/tauil-abd-elilah/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+- name: Blog
+  icon: "fas fa-blog" 
+  url: "https://blog.paperspace.com/author/abd/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
