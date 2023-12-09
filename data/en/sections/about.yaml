@@ -66,6 +66,12 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 softSkills:
+- name: Problem Solving
+  percentage: 92
+  color: orange
+- name: Fast Learner
+  percentage: 95
+  color: sky
 - name: Critical thinking
   percentage: 85
   color: blue
@@ -78,12 +84,7 @@ softSkills:
 - name: Intellectual curiosity
   percentage: 90
   color: green
-- name: Fast Learner
-  percentage: 90
-  color: sky
-- name: Problem Solving
-  percentage: 90
-  color: orange
+
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
