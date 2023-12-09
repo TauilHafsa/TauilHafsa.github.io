@@ -67,9 +67,9 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Neural Networks and Deep Learning
+  url: "https://www.coursera.org/account/accomplishments/certificate/Y6NT5TR3XA4K"
+  badge: "https://www.coursera.org/account/accomplishments/certificate/Y6NT5TR3XA4K"
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
