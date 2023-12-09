@@ -19,7 +19,11 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: '
+I’m TAUIL Abd Elilah, a 26-year-old researcher PHD student in the field of deep learning. I hold a master’s degree in computer science, technical writter at Paperspace, Zindi Ambassador in Morocco, Teaching assistant on various courses (Programming, operating system), Kaggle expert,
+I have a deep passion for Artificial Intelligence, Data Science, and problem-solving. My journey into the world of data began back in 2018, and ever since, I’ve been dedicated to enhancing
+my skills. My goal is to use data to make a positive impact on society and the world, and looking for a new challenge.
+'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
