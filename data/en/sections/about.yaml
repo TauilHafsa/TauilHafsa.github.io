@@ -65,37 +65,25 @@ resourceLinks:
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
-badges:
-- type: certification
-  name: Neural Networks and Deep Learning
-  url: "https://www.coursera.org/account/accomplishments/certificate/Y6NT5TR3XA4K"
-  badge: "../../../assets/images/a.png"
-
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "images/a.png"
-
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
-
-- type: soft-skill-indicator
-  name: Leadership
+softSkills:
+- name: Critical thinking
   percentage: 85
   color: blue
-
-- type: soft-skill-indicator
-  name: Team Work
+- name: Creativity
   percentage: 90
   color: yellow
-
-- type: soft-skill-indicator
-  name: Hard Working
+- name: Communication
   percentage: 85
+  color: pink
+- name: Intellectual curiosity
+  percentage: 90
+  color: green
+- name: Fast Learner
+  percentage: 90
+  color: sky
+- name: Problem Solving
+  percentage: 90
   color: orange
-
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
