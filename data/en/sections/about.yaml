@@ -20,9 +20,9 @@ company:
 
 # a summary about you
 summary: '
-I’m TAUIL Abd Elilah, a 26-year-old researcher PHD student in the field of deep learning. I hold a master’s degree in computer science, technical writter at Paperspace, Zindi Ambassador in Morocco, Teaching assistant on various courses (Programming, operating system), Kaggle expert,
-I have a deep passion for Artificial Intelligence, Data Science, and problem-solving. My journey into the world of data began back in 2018, and ever since, I’ve been dedicated to enhancing
-my skills. My goal is to use data to make a positive impact on society and the world, and looking for a new challenge.
+I’m TAUIL Abd Elilah, a 26-year-old researcher PHD student in the field of deep learning. I hold a master’s degree in computer science, technical writter at Paperspace, Zindi Ambassador in Morocco,
+Teaching assistant on various courses (Programming, operating system), Kaggle expert,I have a deep passion for Artificial Intelligence, Data Science, and problem-solving. My journey into the world of data
+began back in 2018, and ever since, I’ve been dedicated to enhancingmy skills. My goal is to use data to make a positive impact on society and the world, and looking for a new challenge.
 '
 
 # your social links
@@ -32,18 +32,31 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "tauilabdelilah97@gmail.com"
 
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/tauil-abd-elilah/"
+  
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/TAUIL-Abd-Elilah"
 
-
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/tauil-abd-elilah/"
-
-- name: Blog
-  icon: "fas fa-blog" 
+- name: YouTube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/channel/UCxPHBw63g9p-NzmfwyiuTSQ"
+  
+- name: Paperspace
+  icon: "fas fa-star"
+  custom_text: "P"
   url: "https://blog.paperspace.com/author/abd/"
+
+- name: Kaggle
+  icon: "fab fa-kaggle"
+  url: "https://www.kaggle.com/tauilabdelilah/Home"
+
+- name: Zindi
+  icon: "fas fa-star"
+  custom_text: "Zindi"
+  url: "https://zindi.africa/users/TAUIL_Abdelilah"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
