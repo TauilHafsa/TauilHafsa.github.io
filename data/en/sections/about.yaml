@@ -45,8 +45,7 @@ socialLinks:
   url: "https://www.youtube.com/channel/UCxPHBw63g9p-NzmfwyiuTSQ"
   
 - name: Paperspace
-  icon: "fas fa-star"
-  custom_text: "P"
+  icon: "fas fa-solid fa-p"
   url: "https://blog.paperspace.com/author/abd/"
 
 - name: Kaggle
@@ -54,8 +53,7 @@ socialLinks:
   url: "https://www.kaggle.com/tauilabdelilah/Home"
 
 - name: Zindi
-  icon: "fas fa-star"
-  custom_text: "Zindi"
+  icon: "fas fa-solid fa-z"
   url: "https://zindi.africa/users/TAUIL_Abdelilah"
 
 # You can put custom buttons to link your relevant resources.
