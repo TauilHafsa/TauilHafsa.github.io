@@ -69,7 +69,7 @@ badges:
 - type: certification
   name: Neural Networks and Deep Learning
   url: "https://www.coursera.org/account/accomplishments/certificate/Y6NT5TR3XA4K"
-  badge: "https://www.coursera.org/account/accomplishments/certificate/Y6NT5TR3XA4K"
+  badge: "assets/images/a.png"
 
 - type: certification
   name: Istio and IBM Cloud Kubernetes Service
