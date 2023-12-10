@@ -79,12 +79,8 @@ degrees:
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+- name: Baccalaureate in Mathematical Science
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2014-2015
   institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    name: High school Hassan II
