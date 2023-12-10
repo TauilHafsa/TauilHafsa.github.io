@@ -30,9 +30,24 @@ skills:
   url: "https://pytorch.org/"
   
 - name: TensorFlow
-  logo: /images/sections/skills/tf.png
+  logo: /images/sections/skills/tw.png
   summary: "Leveraging TensorFlow, I adeptly build, train, and deploy deep learning models for diverse tasks."
   url: "https://www.tensorflow.org/"
+  
+- name: Keras
+  logo: /images/sections/skills/k.png
+  summary: "Highly proficient in Keras, I efficiently design and implement deep learning models for various tasks, leveraging its user-friendly API and powerful functionalities."
+  url: "https://keras.io/"
+
+- name: Fast.ai
+  logo: /images/sections/skills/f.png
+  summary: "Equipped with fast.ai's high-level components, I rapidly build and iterate on deep learning models, achieving state-of-the-art results with ease."
+  url: "https://www.fast.ai/"
+
+- name: JAX
+  logo: /images/sections/skills/jax.png
+  summary: "Equipped with JAX, I leverage its functional programming paradigm and high-performance capabilities to build and train advanced deep learning models, accelerating research and development."
+  url: "https://jax.readthedocs.io/en/latest/index.html"
   
 - name: Git
   logo: /images/sections/skills/git.png
