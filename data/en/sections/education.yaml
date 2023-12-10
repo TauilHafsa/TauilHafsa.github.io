@@ -4,29 +4,21 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Researcher PHD Student - E-Fashion in Deep Learning
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2021 - Present
   institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
+    name: Abdelmalek Essaadi University, Tetouan
+    url: "https://www.fst.ac.ma/site/"
+  extracurricularActivities: #(optional)
+  - Competition officer in Club InfoMath - FS Tetouan
+  - Kaggle expert (competition and notebooks)
 
 - name: Master of Science in Computer engineering
   icon: fa-university
@@ -76,7 +68,7 @@ degrees:
   #- Pellentesque ut fringilla magna.
   
 - name: General University Studies Diploma in Mathematics and Computer Science
-  icon: fa-university
+  icon: fa-graduation-cap
   timeframe: 2015-2017
   institution:
     name: Abdelmalek Essaadi University, Tetouan
