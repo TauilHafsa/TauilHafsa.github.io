@@ -18,7 +18,9 @@ experiences:
     overview: Zindi connects organizations with data scientists to solve Africa's most pressing challenges. Through crowdsourced problem-solving, talent identification, and skill development, Zindi fosters innovation and unlocks data potential.
   positions:
     start: Nov 2023
-    Engage communities and universities to take part in data science competitions and build a community of data enthusiast to build solutions for Africa at large.
+    responsibilities:
+    - Engage communities and universities to take part in data science competitions.
+    - Build a community of data enthusiast to build solutions for Africa at large.
 
 - company:
     name: PreExample Co.
