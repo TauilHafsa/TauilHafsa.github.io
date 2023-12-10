@@ -11,29 +11,19 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Abdelmalek Essaâdi Tetouan University
+    url: "https://www.uae.ma/"
+    location: Morocco, Tetouan
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: A leading Moroccan institution offering diverse undergraduate and graduate programs across various disciplines. UAE provides a vibrant campus life with modern facilities, active student clubs and international partnership.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Teaching Assistant
+    start: Nov 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Teaching assistant on various courses (Programming, operating system)
 
 - company:
     name: Zindi
