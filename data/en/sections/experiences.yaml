@@ -36,21 +36,19 @@ experiences:
     - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Zindi
+    url: "https://zindi.africa/users/TAUIL_Abdelilah"
+    location: Remote
+    overview: Zindi connects organizations with data scientists to solve Africa's most pressing challenges. Through crowdsourced problem-solving, talent identification, and skill development, Zindi fosters innovation and unlocks data potential.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Zindi Ambassador in Morocco
+    start: Nov 2023
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
+    - Engage communities and universities to take part in data science competitions.
+    - Build a community of data enthusiast to build solutions for Africa at large.
+    
 - company:
-    name: Paperspace.
+    name: Paperspace
     url: "https://blog.paperspace.com/author/abd/"
     location: Remote
     overview: Discover insightful articles, tutorials, and guides on AI, ML, deep learning, and more. Learn from expert contributors and stay up-to-date on the latest trends and advancements in the field. Explore innovative applications and unlock new possibilities for your own projects.
