@@ -64,13 +64,14 @@ degrees:
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
+  
 - name: Abdelmalek Essaadi University
   icon: fa-university
   timeframe: 2015-2017
   institution:
     name: Abdelmalek Essaadi University, Tetouan
     url: "https://www.fst.ac.ma/site/"
-  TakenCourses:
+  takenCourses:
   - Data Structures and Algorithm.
   - Network Security.
   - Operating System.
