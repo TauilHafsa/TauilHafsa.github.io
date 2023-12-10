@@ -26,7 +26,7 @@ skills:
 
 - name: Pytorch
   logo: /images/sections/skills/pytorch.png
-  summary: "As a proficient user of PyTorch, I leverage its capabilities to efficiently develop, train, and evaluate deep learning models. My expertise in utilizing PyTorch's functionalities allows me to seamlesslybuild complex architectures, perform efficient tensor operations, and implement cutting-edge training algorithms, ultimately leading to high-performing models."
+  summary: "Proficient in PyTorch, I build and train deep learning models, leveraging expertise in architecture design, tensor optimization, and cutting-edge training algorithms. This skillset enables me to deliver high-performing solutions for diverse applications."
   url: "https://pytorch.org/"
 
 - name: Git
