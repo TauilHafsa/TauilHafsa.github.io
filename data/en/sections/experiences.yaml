@@ -11,16 +11,29 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Zindi Ambassador in Morocco.
-    url: "https://zindi.africa/"
-    location: Remote
+    name: Example Co.
+    url: "https://www.example.com"
+    location: Dhaka Branch
     # company overview
-    overview: Zindi connects organizations with data scientists to solve Africa's most pressing challenges. Through crowdsourced problem-solving, talent identification, and skill development, Zindi fosters innovation and unlocks data potential.
+    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-    start: Nov 2023
+  - designation: Senior Software Engineer
+    start: Nov 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Engage communities and universities to take part in data science competitions.
-    - Build a community of data enthusiast to build solutions for Africa at large.
+    - Design and develop XYZ tool for ABC task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Lead backend team.
+
+  - designation: Junior Software Engineer
+    start: Nov 2017
+    end: Oct 2019
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
 
 - company:
     name: PreExample Co.
