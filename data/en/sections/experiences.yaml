@@ -50,15 +50,13 @@ experiences:
     - See lots of example videos.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Paperspace.
+    url: "https://blog.paperspace.com/author/abd/"
+    location: Remote
+    overview: Discover insightful articles, tutorials, and guides on AI, ML, deep learning, and more. Learn from expert contributors and stay up-to-date on the latest trends and advancements in the field. Explore innovative applications and unlock new possibilities for your own projects.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Technical Writer - Machine Learning
+    start: Jul 2022
+    end: Jul 2023 
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    Writing articles and code implementation centered on explaining nuanced concepts in deep learning and artificial intelligence with a particular focus on computer vision applications.
