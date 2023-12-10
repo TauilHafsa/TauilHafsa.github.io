@@ -70,7 +70,7 @@ degrees:
   institution:
     name: Abdelmalek Essaadi University, Tetouan
     url: "https://www.fst.ac.ma/site/"
-  TakenCourses: #(optional)
+  TakenCourses:
   - Data Structures and Algorithm.
   - Network Security.
   - Operating System.
