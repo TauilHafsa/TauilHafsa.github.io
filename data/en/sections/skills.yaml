@@ -29,6 +29,10 @@ skills:
   summary: "Proficient in PyTorch, I build and train deep learning models, leveraging expertise in architecture design, tensor optimization, and cutting-edge training algorithms. This skillset enables me to deliver high-performing solutions for diverse applications."
   url: "https://pytorch.org/"
   
+- name: TensorFlow
+  logo: /images/sections/skills/tf.webp
+  summary: "Leveraging TensorFlow, I adeptly build, train, and deploy deep learning models for diverse tasks."
+  url: "https://www.tensorflow.org/"
   
 - name: Keras
   logo: /images/sections/skills/k.png
