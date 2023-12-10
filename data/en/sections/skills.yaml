@@ -13,25 +13,20 @@ section:
 skills:
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: " my Python expertise extends to crafting elegant and efficient code for data wrangling, algorithm development, and insightful visualizations. Proficient in core Python and deep learning libraries,
-  I unlock hidden potential within datasets, translating complex challenges into valuable knowledge."
+  summary: " my Python expertise extends to crafting elegant and efficient code for data wrangling, algorithm development, and insightful visualizations. Proficient in core Python and deep learning libraries,I unlock hidden potential within datasets, translating complex challenges into valuable knowledge."
   url: "https://www.python.org/"
 
 - name: Machine Learning
   logo: /images/sections/skills/ml.png
-  summary: "Skilled in machine learning, I develop impactful models, and advanced statistical techniques. My expertise transforms complex data into actionable insights, contributing to advanced research
-  and informed decision-making."
+  summary: "Skilled in machine learning, I develop impactful models, and advanced statistical techniques. My expertise transforms complex data into actionable insights, contributing to advanced researchand informed decision-making."
 
 - name: Deep learning
   logo: /images/sections/skills/dl.png
-  summary: "Equipped with a strong understanding of theoretical concepts and the latest advancements in deep learning research, I possess expertise in applying various architectures (e.g., CNNs, LSTMs, Transformers)
-  for diverse tasks like image recognition, natural language processing, and time series forecasting. Leveraging my proficiency in deep learning frameworks, I skillfully develop, train, and evaluate models,
-  while employing data preprocessing, cleaning, and augmentation techniques for optimal performance."
+  summary: "Equipped with a strong understanding of theoretical concepts and the latest advancements in deep learning research, I possess expertise in applying various architectures (e.g., CNNs, LSTMs, Transformers)for diverse tasks like image recognition, natural language processing, and time series forecasting. Leveraging my proficiency in deep learning frameworks, I skillfully develop, train, and evaluate models,while employing data preprocessing, cleaning, and augmentation techniques for optimal performance."
 
 - name: Pytorch
   logo: /images/sections/skills/pytorch.png
-  summary: "As a proficient user of PyTorch, I leverage its capabilities to efficiently develop, train, and evaluate deep learning models. My expertise in utilizing PyTorch's functionalities allows me to seamlessly
-  build complex architectures, perform efficient tensor operations, and implement cutting-edge training algorithms, ultimately leading to high-performing models."
+  summary: "As a proficient user of PyTorch, I leverage its capabilities to efficiently develop, train, and evaluate deep learning models. My expertise in utilizing PyTorch's functionalities allows me to seamlesslybuild complex architectures, perform efficient tensor operations, and implement cutting-edge training algorithms, ultimately leading to high-performing models."
   url: "https://pytorch.org/"
 
 - name: TensorFlow
