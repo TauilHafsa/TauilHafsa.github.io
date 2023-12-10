@@ -13,14 +13,14 @@ section:
 skills:
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: " I wield core Python and deep learning libraries with expertise, crafting elegant and efficient code that unlocks the hidden potential within datasets. Whether wrangling data,
-  architecting complex algorithms, or visualizing insights, my Python prowess empowers me to tackle diverse challenges and translate data into valuable knowledge."
+  summary: " my Python expertise extends to crafting elegant and efficient code for data wrangling, algorithm development, and insightful visualizations. Proficient in core Python and deep learning libraries,
+  I unlock hidden potential within datasets, translating complex challenges into valuable knowledge."
   url: "https://www.python.org/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
+- name: Machine Learning
+  logo: /images/sections/skills/ml.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  url: "https://en.wikipedia.org/wiki/Machine_learning"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
