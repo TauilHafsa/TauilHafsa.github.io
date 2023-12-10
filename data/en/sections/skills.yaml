@@ -30,7 +30,7 @@ skills:
   url: "https://pytorch.org/"
   
 - name: TensorFlow
-  logo: /images/sections/skills/tw.png
+  logo: /images/sections/skills/tf.webp
   summary: "Leveraging TensorFlow, I adeptly build, train, and deploy deep learning models for diverse tasks."
   url: "https://www.tensorflow.org/"
   
@@ -48,6 +48,10 @@ skills:
   logo: /images/sections/skills/jax.png
   summary: "Equipped with JAX, I leverage its functional programming paradigm and high-performance capabilities to build and train advanced deep learning models, accelerating research and development."
   url: "https://jax.readthedocs.io/en/latest/index.html"
+
+- name: Computer Vision
+  logo: /images/sections/skills/cv.png
+  summary: "Computer vision expert, I apply deep learning techniques for object detection, image recognition/classification, segmentation tasks, generate new images,.., delivering state-of-the-art solutions, and write a clean, simple and readable implementation of various state of the art research papers"
   
 - name: Git
   logo: /images/sections/skills/git.png
