@@ -12,6 +12,14 @@ section:
 # Your accomplishments
 accomplishments:
 
+- name: Build Better Generative Adversarial Networks (GANs)Build Better Generative Adversarial Networks (GANs)
+  timeline: "Feb 2021"
+  organization:
+    name: Coursera - DeepLearning.AI
+    url: https://www.coursera.org/deeplearning-ai
+  courseOverview: This course equips you to analyze the challenges of evaluating Generative Adversarial Networks (GANs) and compare them to other generative models. You'll master the Fréchet Inception Distance (FID) method to assess the fidelity and diversity of GANs, uncover potential biases, and learn to implement cutting-edge techniques associated with the state-of-the-art StyleGANs.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/64BATYHZBCNN"
+
 - name: Structuring Machine Learning Projects
   timeline: "Feb 2021"
   organization:
