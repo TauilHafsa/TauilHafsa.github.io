@@ -64,9 +64,9 @@ degrees:
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
+- name: Abdelmalek Essaadi University, Tetouan
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2015-2017
   institution:
     name: MST College of Science
     url: "#"
@@ -83,4 +83,5 @@ degrees:
   icon: fa-school
   timeframe: 2014-2015
   institution:
-    name: High school Hassan II
+    name: High school Hassan II, Tetouan
+    url: "#"
