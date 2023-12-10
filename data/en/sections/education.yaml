@@ -4,7 +4,7 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 5
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -21,7 +21,7 @@ degrees:
   - Kaggle expert (competition and notebooks)
 
 - name: Master of Science in Computer engineering
-  icon: fa-university
+  icon: fa-graduation-cap
   timeframe: 2018-2020
   institution:
     name: Abdelmalek Essaadi University, Tetouan
@@ -46,7 +46,7 @@ degrees:
     
     
 - name: Bachelor's degree in Mathematics and Computer Science
-  icon: fa-university
+  icon: fa-graduation-cap
   timeframe: 2017-2018
   institution:
     name: Abdelmalek Essaadi University, Tetouan
