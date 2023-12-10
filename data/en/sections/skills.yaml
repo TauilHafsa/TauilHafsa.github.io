@@ -19,12 +19,14 @@ skills:
 
 - name: Machine Learning
   logo: /images/sections/skills/ml.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://en.wikipedia.org/wiki/Machine_learning"
+  summary: "Skilled in machine learning, I develop impactful models, and advanced statistical techniques. My expertise transforms complex data into actionable insights, contributing to advanced research
+  and informed decision-making."
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Deep learning
+  logo: /images/sections/skills/dl.png
+  summary: "Equipped with a strong understanding of theoretical concepts and the latest advancements in deep learning research, I possess expertise in applying various architectures (e.g., CNNs, LSTMs, Transformers)
+  for diverse tasks like image recognition, natural language processing, and time series forecasting. Leveraging my proficiency in deep learning frameworks, I skillfully develop, train, and evaluate models,
+  while employing data preprocessing, cleaning, and augmentation techniques for optimal performance."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
