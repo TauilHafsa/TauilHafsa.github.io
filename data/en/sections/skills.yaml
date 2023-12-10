@@ -28,7 +28,12 @@ skills:
   logo: /images/sections/skills/pytorch.png
   summary: "Proficient in PyTorch, I build and train deep learning models, leveraging expertise in architecture design, tensor optimization, and cutting-edge training algorithms. This skillset enables me to deliver high-performing solutions for diverse applications."
   url: "https://pytorch.org/"
-
+  
+- name: TensorFlow
+  logo: /images/sections/skills/tf.png
+  summary: "Leveraging TensorFlow, I adeptly build, train, and deploy deep learning models for diverse tasks."
+  url: "https://www.tensorflow.org/"
+  
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
