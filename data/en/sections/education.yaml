@@ -27,38 +27,23 @@ degrees:
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
-- name: B.Sc. in Computer Science & Engineering
-  icon: fa-graduation-cap
-  timeframe: 2012-2016
+    
+- name: Bachelor's degree in Mathematics and Computer Science
+  icon: fa-university
+  timeframe: 2017-2018
   institution:
-    name: University of XYZ
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    name: Abdelmalek Essaadi University, Tetouan
+    url: "https://www.fst.ac.ma/site/"
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
+    showGrades: false
+    collapseAfter: 5
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+    - name: Object-oriented programming (JAVA)
+    - name: Unified Modeling Language (UML)
+    - name: Compilation
+    - name: Security and cryptography
+    - name: Operational Research
   #extracurricularActivities: #(optional)
   #- In vitae facilisis est, eget porta sem.
   #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
