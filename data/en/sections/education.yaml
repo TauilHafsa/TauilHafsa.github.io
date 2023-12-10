@@ -59,11 +59,11 @@ degrees:
     url: "#"
   - title: Fusce eu augue ut odio porttitor pulvinar.
     url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  #extracurricularActivities: #(optional)
+  #- In vitae facilisis est, eget porta sem.
+  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  #- Duis sed massa feugiat, ornare justo et, aliquam est.
+  #- Pellentesque ut fringilla magna.
   
 - name: Abdelmalek Essaadi University
   icon: fa-university
@@ -71,11 +71,15 @@ degrees:
   institution:
     name: Abdelmalek Essaadi University, Tetouan
     url: "https://www.fst.ac.ma/site/"
-  takenCourses:
-  - Data Structures and Algorithm.
-  - Network Security.
-  - Operating System.
-  - Web development.
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Data Structures and Algorithm
+    - name: Network Security
+    - name: Operating System
+    - name: Web development
 
 - name: Baccalaureate in Mathematical Science
   icon: fa-school
