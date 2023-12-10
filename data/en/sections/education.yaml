@@ -27,6 +27,31 @@ degrees:
     url: "#"
   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
     url: "#"
+
+- name: Master of Science in Computer engineering
+  icon: fa-university
+  timeframe: 2018-2020
+  institution:
+    name: Abdelmalek Essaadi University, Tetouan
+    url: "https://www.fst.ac.ma/site/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 12
+    courses:
+    - name: Complexity of Algorithms
+    - name: Combinatorial Optimization
+    - name: Advanced Object Oriented Programming
+    - name: Image processing
+    - name: Machine Learning
+    - name: Advanced urbanization systems
+    - name: Pervasive information systems
+    - name: IP technology
+    - name: Decision-making tools
+    - name: Business Management
+    - name: Design and Distributed Applications
+    - name: Human Machine Interface
+    
     
 - name: Bachelor's degree in Mathematics and Computer Science
   icon: fa-university
