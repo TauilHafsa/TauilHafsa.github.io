@@ -101,7 +101,7 @@ projects:
   role: Developer
   timeline: "Apr 2021"
   #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.kaggle.com/competitions/playground-series-s3e12"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  url: "https://www.kaggle.com/competitions/30-days-of-ml"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Competition on Kaggle. Out of 7,573 data scientists worldwide, I finished 141th on the leaderboard (Top 2%).
   tags: ["competition", "Deep Learning", "Machine Learning", "Kaggle"]
 
@@ -110,7 +110,7 @@ projects:
   role: Developer
   timeline: "Oct 2020"
   #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.kaggle.com/competitions/playground-series-s3e12"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  url: "https://zindi.africa/competitions/layerai-air-quality-prediction-challenge"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Use Sentinel 5P data to predict air quality in Kampala for AirQo. Out of 684 data scientists worldwide enrolled, I finished 11th on the leaderboard.
   tags: ["competition", "Deep Learning", "Machine Learning", "Zindi"]
 
@@ -119,7 +119,7 @@ projects:
   role: Developer
   timeline: "Mar 2020 - Jun 2020"
   #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.kaggle.com/competitions/playground-series-s3e12"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  url: "https://www.kaggle.com/competitions/tweet-sentiment-extraction"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Extract support phrases for sentiment labels. Out of 2225 data scientists worldwide, I finished 43th on the leaderboard (Top 2%).
   tags: ["competition", "Deep Learning", "Tensorflow", "Keras", "Transfermers", "Kaggle"]
 
