@@ -23,6 +23,25 @@ buttons:
 
 # your projects
 projects:
+
+- name: ICR - Identifying Age-Related Conditions
+  # logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "Jun 2023 - Aug 2023"
+  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.kaggle.com/competitions/icr-identify-age-related-conditions/overview"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Use Machine Learning to detect conditions with measurements of anonymous characteristics. Out of 6,430 data scientists worldwide, I finished 612th on the leaderboard (Top 10%)
+  tags: ["competition", "Deep Learning", "Machine Learning", "Kaggle"]
+
+- name: Regression with a Tabular Media Campaign Cost Dataset
+  # logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "Mar 2023 - Apr 2023"
+  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.kaggle.com/competitions/playground-series-s3e11"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Competition on Kaggle. Out of 952 data scientists worldwide, I finished 9th on the leaderboard (Top 1%).
+  tags: ["competition", "Deep Learning", "Machine Learning", "Kaggle"]
+  
 - name: AI Clothing Generator using StyleGAN-2
   # logo: /images/sections/projects/kubernetes.png
   role: Developer
@@ -68,11 +87,4 @@ projects:
   summary: Generate fashion MNIST using deep learning approache, PyTorch.
   tags: ["professional", "Deep Learning", "PyTorch", "Generative AI"]
 
-- name: ICR - Identifying Age-Related Conditions
-  # logo: /images/sections/projects/kubernetes.png
-  role: Developer
-  timeline: "Jun 2023 - Aug 2023"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.kaggle.com/competitions/icr-identify-age-related-conditions/overview"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Use Machine Learning to detect conditions with measurements of anonymous characteristics.
-  tags: ["competition", "Deep Learning", "Machine Learning", "Kaggle"]
+
