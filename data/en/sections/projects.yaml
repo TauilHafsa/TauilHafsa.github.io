@@ -26,7 +26,7 @@ projects:
 - name: AI Clothing Generator using StyleGAN-2
   # logo: /images/sections/projects/kubernetes.png
   role: Developer
-  timeline: "March 2022"
+  timeline: "Jul 2023"
   #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Make a clean, simple, and readable implementation from scratch of StyleGAN-2 to generate clothes using PyTorch .
@@ -35,34 +35,35 @@ projects:
 - name: AI Clothing Generator using StyleGAN
   # logo: /images/sections/projects/kubernetes.png
   role: Developer
-  timeline: "March 2022"
-  repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  timeline: "Apr 2023"
+  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://blog.paperspace.com/implementation-stylegan-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Make a clean, simple, and readable implementation from scratch of StyleGAN to generate clothes using PyTorch .
   tags: ["professional", "Deep Learning", "PyTorch", "Generative AI"]
 
 - name: AI Clothing Generator using ProGAN
   # logo: /images/sections/projects/kubernetes.png
   role: Developer
-  timeline: "March 2022"
-  repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/blob/main/StyleGAN%20implementation%20from%20scratch%20PyTorch.ipynb # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  timeline: "Apr 2023"
+  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://blog.paperspace.com/implementation-of-progan-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Make a clean, simple, and readable implementation from scratch of ProGAN to generate clothes using PyTorch .
-  tags: ["hobby", "Deep Learning", "PyTorch", "Generative AI"]
+  tags: ["professional", "Deep Learning", "PyTorch", "Generative AI"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Person-segmentation
+  # logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "Nov 2022"
+  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://blog.paperspace.com/image-segmentation-using-segmentation_models_pytorch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Person segmentation using deep learning approache, PyTorch.
+  tags: ["professional", "Deep Learning", "PyTorch"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Generate fashion MNIST with GAN
+  # logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "Jul 2022"
+  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://blog.paperspace.com/build-simple-gan-from-scratch-to-generate/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Generate fashion MNIST using deep learning approache, PyTorch.
+  tags: ["professional", "Deep Learning", "PyTorch", "Generative AI"]
