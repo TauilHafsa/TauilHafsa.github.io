@@ -41,12 +41,14 @@ projects:
   summary: Make a clean, simple, and readable implementation of StyleGAN to generate clothes using PyTorch .
   tags: ["hobby", "Deep Learning", "PyTorch", "Generative AI"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: AI Clothing Generator using ProGAN
+  # logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "March 2022"
+  repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/blob/main/StyleGAN%20implementation%20from%20scratch%20PyTorch.ipynb # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Make a clean, simple, and readable implementation of StyleGAN to generate clothes using PyTorch .
+  tags: ["hobby", "Deep Learning", "PyTorch", "Generative AI"]
 
 - name: Nocode
   logo: /images/sections/projects/no-code.png
