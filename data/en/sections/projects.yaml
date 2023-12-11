@@ -16,19 +16,21 @@ buttons:
   filter: "professional"
 - name: Academic
   filter: "academic"
+- name: Competition
+  filter: "competition"
 - name: Hobby
   filter: "hobby"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: AI Clothing Generator using StyleGAN-2
+  # logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "March 2022"
+  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Make a clean, simple, and readable implementation of StyleGAN-2 to generate clothes using PyTorch .
+  tags: ["hobby", "Deep Learning", "PyTorch"]
 
 - name: Tensorflow
   logo: /images/sections/projects/tensorflow.png
