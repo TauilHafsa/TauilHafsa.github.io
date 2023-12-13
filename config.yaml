@@ -1,7 +1,7 @@
-baseURL: https://tauil-abd-elilah.github.io
+baseURL: https://tauilhafsa.github.io
 
 languageCode: en-us
-title: "TAUIL Abd Elilah"
+title: "TAUIL Hafsa"
 
 # Use Hugo modules to add theme
 module:
@@ -52,7 +52,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/2.png
+  background: /images/site/2.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
@@ -62,7 +62,7 @@ params:
     favicon: /images/site/logo.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/TAUIL-Abd-Elilah/TAUIL-Abd-Elilah.github.io
+  gitRepo: https://github.com/tauilhafsa/tauilhafsa.github.io
   # Default branch of your Git repo
   gitBranch: main
 
