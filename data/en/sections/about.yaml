@@ -20,7 +20,7 @@ company:
 
 # a summary about you
 summary: '
-I’m TAUIL Hafsa, born in 2004. A computer science student, passionate about data science and artificial Iintelligence, Eager for new challenges,
+I’m TAUIL Hafsa, born in 2004. A computer science student, I am lucky, passionate about data science and artificial Iintelligence, Eager for new challenges.
 '
 
 # your social links
@@ -38,13 +38,6 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://github.com/TAUIL-Abd-Elilah"
 
-- name: YouTube
-  icon: "fab fa-youtube"
-  url: "https://www.youtube.com/channel/UCxPHBw63g9p-NzmfwyiuTSQ"
-  
-- name: Paperspace
-  icon: "fas fa-solid fa-p"
-  url: "https://blog.paperspace.com/author/abd/"
 
 - name: Kaggle
   icon: "fab fa-kaggle"
