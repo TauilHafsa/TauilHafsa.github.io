@@ -1,6 +1,6 @@
 # some information about you
-name: "TAUIL Abd Elilah"
-nickname: "Abd Elilah"
+name: "TAUIL Hafsa"
+nickname: "Hafsa"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/a - Copy.jpg"
@@ -8,14 +8,12 @@ image: "images/author/a - Copy.jpg"
 contactInfo:
   email: "tauilabdelilah97@gmail.com"
   phone: "+212708062500"
-  github: TAUIL-Abd-Elilah
-  linkedin: tauil-abd-elilah
+  github: TauilHafsa
+  linkedin: tauil-hafsa
 
 # some summary about what you do
 summary:
   - I am a Data Scientist
-  - I am an Artificial Intelligence Researcher
   - I love machine learning Competitions
-  - I work on open-source projects
   - I love to work with some fun projects
   - I am looking for a new challenge
