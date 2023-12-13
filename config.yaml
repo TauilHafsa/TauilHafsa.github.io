@@ -62,7 +62,7 @@ params:
     favicon: /images/site/logo.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/TauilHafsa-Elilah/https://tauilhafsa.github.io/
+  gitRepo: https://github.com/TauilHafsa/https://tauilhafsa.github.io/
   # Default branch of your Git repo
   gitBranch: main
 
