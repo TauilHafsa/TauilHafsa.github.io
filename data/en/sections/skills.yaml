@@ -13,7 +13,7 @@ section:
 skills:
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: " my Python expertise extends to crafting elegant and efficient code for data wrangling, algorithm development, and insightful visualizations. Proficient in core Python and deep learning libraries,I unlock hidden potential within datasets, translating complex challenges into valuable knowledge."
+  summary: " I have considerable knowledge in developing user-friendly data analysis applications in Python, which help data scientists solve complex problems such as wrangling, developing algorithms or building insightful visualizations.For example, I can help with core Python as well as deep-learning libraries, and assist you in spotting those insights that would otherwise be hidden inside datasets."
 
 - name: Machine Learning
   logo: /images/sections/skills/ml.png
