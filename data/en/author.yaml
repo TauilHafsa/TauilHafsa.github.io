@@ -6,14 +6,12 @@ greeting: "Hi, I am"
 image: "images/author/a - Copy.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "tauilabdelilah97@gmail.com"
-  phone: "+212708062500"
+  email: "hasfatauil12@gmail.com"
   github: TauilHafsa
   linkedin: tauil-hafsa
 
 # some summary about what you do
 summary:
-  - I am a Data Scientist
-  - I love machine learning Competitions
-  - I love to work with some fun projects
-  - I am looking for a new challenge
+  - I am a Computer science student
+  - Passionate about Data science and Artificial Intelligence
+  - Eager for new challenges!
