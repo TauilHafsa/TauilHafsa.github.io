@@ -1,3 +1,3 @@
 # TauilHafsa.github.io
 
-My prtfolio: https://tauilhafsa.github.io/
+My portfolio: https://tauilhafsa.github.io/
