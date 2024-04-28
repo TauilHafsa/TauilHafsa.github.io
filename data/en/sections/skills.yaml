@@ -33,6 +33,26 @@ skills:
   logo: /images/sections/skills/cv.png
   summary: "I apply deep learning techniques for object detection, image recognition/classification, and segmentation tasks."
 
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "I'm skilled in SQL, proficient at managing and querying databases efficiently. This includes designing database schemas, writing complex queries, and optimizing database performance."
+
+- name: C
+  logo: /images/sections/skills/c.png
+  summary: "I have a proficient understanding of the C programming language, including its syntax, data structures, and algorithms. I have used C in various projects."
+
+- name: Web development
+  logo: /images/sections/skills/web.png
+  summary: "Experienced in HTML, CSS, and PHP. I have a strong understanding of front-end technologies such as HTML and CSS for building user-friendly interfaces, as well as back-end development using PHP for dynamic web applications."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "I'm skilled in Git for managing project versions and collaborating with others, and in Jira for organizing tasks and tracking project progress effectively. Additionally, I'm familiar with GitHub, where I host my Git repositories, collaborate with teams, and contribute to open-source projects."
+
+- name: Docker
+  logo: /images/sections/skills/docker.png
+  summary: "I have some experience in Docker, specializing in containerizing environments and applications. This includes building Docker images, pushing them to Docker Hub, and efficiently managing containers. Moreover, I have experience with Kubernetes, where I can manage containerized applications and deploy them across clusters using YAML for configuration and Kubectl for orchestration."
+
 - name: Technical Writer
   logo: /images/sections/skills/tw.png
   summary: "Writing articles and code implementation."
