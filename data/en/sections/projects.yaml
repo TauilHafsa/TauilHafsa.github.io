@@ -24,102 +24,29 @@ buttons:
 # your projects
 projects:
   
-- name: AI Clothing Generator using StyleGAN-2
+- name: Automaton manipulation
   # logo: /images/sections/projects/kubernetes.png
   role: Developer
-  timeline: "Jul 2023"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Make a clean, simple, and readable implementation from scratch of StyleGAN-2 to generate clothes using PyTorch .
-  tags: ["professional", "Deep Learning", "PyTorch", "Generative AI"]
+  timeline: "2024"
+  repo: https://github.com/TauilHafsa/Academic-Projects/tree/main/Automaton%20manipulation # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: We aim to develop a program capable of reading and storing in memory an automaton A from a .txt file. Subsequently, we will implement some basic algorithms for automaton manipulation.
+  tags: ["Academical", "C", "language theory"]
 
-- name: ICR - Identifying Age-Related Conditions
+- name: CGIAR Eyes on the Ground Challenge Zindi Competition
   # logo: /images/sections/projects/kubernetes.png
   role: Developer
-  timeline: "Jun 2023 - Aug 2023"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.kaggle.com/competitions/icr-identify-age-related-conditions/overview"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Use Machine Learning to detect conditions with measurements of anonymous characteristics. Out of 6,430 data scientists worldwide, I finished 612th on the leaderboard (Top 10%)
-  tags: ["competition", "Deep Learning", "Machine Learning", "Kaggle"]
-
-- name: Regression with a Tabular Media Campaign Cost Dataset
-  # logo: /images/sections/projects/kubernetes.png
-  role: Developer
-  timeline: "Mar 2023 - Apr 2023"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.kaggle.com/competitions/playground-series-s3e11"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Competition on Kaggle. Out of 952 data scientists worldwide, I finished 9th on the leaderboard (Top 1%).
-  tags: ["competition", "Deep Learning", "Machine Learning", "Kaggle"]
-
-- name: Binary Classification with a Tabular Kidney Stone Prediction Dataset
-  # logo: /images/sections/projects/kubernetes.png
-  role: Developer
-  timeline: "Apr 2023"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.kaggle.com/competitions/playground-series-s3e12"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Competition on Kaggle. Out of 1088 data scientists worldwide, I finished 97th on the leaderboard (Top 9%).
-  tags: ["competition", "Deep Learning", "Machine Learning", "Kaggle"]
-  
-- name: AI Clothing Generator using StyleGAN
-  # logo: /images/sections/projects/kubernetes.png
-  role: Developer
-  timeline: "Apr 2023"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://blog.paperspace.com/implementation-stylegan-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Make a clean, simple, and readable implementation from scratch of StyleGAN to generate clothes using PyTorch .
-  tags: ["professional", "Deep Learning", "PyTorch", "Generative AI"]
-
-- name: AI Clothing Generator using ProGAN
-  # logo: /images/sections/projects/kubernetes.png
-  role: Developer
-  timeline: "Apr 2023"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://blog.paperspace.com/implementation-of-progan-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Make a clean, simple, and readable implementation from scratch of ProGAN to generate clothes using PyTorch .
-  tags: ["professional", "Deep Learning", "PyTorch", "Generative AI"]
-
-- name: Person-segmentation
-  # logo: /images/sections/projects/kubernetes.png
-  role: Developer
-  timeline: "Nov 2022"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://blog.paperspace.com/image-segmentation-using-segmentation_models_pytorch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Person segmentation using deep learning approache, PyTorch.
-  tags: ["professional", "Deep Learning", "PyTorch"]
-
-- name: Generate fashion MNIST with GAN
-  # logo: /images/sections/projects/kubernetes.png
-  role: Developer
-  timeline: "Jul 2022"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://blog.paperspace.com/build-simple-gan-from-scratch-to-generate/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Generate fashion MNIST using deep learning approache, PyTorch.
-  tags: ["professional", "Deep Learning", "PyTorch", "Generative AI"]
-
-- name: 30 Days of ML
-  # logo: /images/sections/projects/kubernetes.png
-  role: Developer
-  timeline: "Apr 2021"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.kaggle.com/competitions/30-days-of-ml"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Competition on Kaggle. Out of 7,573 data scientists worldwide, I finished 141th on the leaderboard (Top 2%).
-  tags: ["competition", "Deep Learning", "Machine Learning", "Kaggle"]
-
-- name: Layer.ai Air Quality Prediction Challenge
-  # logo: /images/sections/projects/kubernetes.png
-  role: Developer
-  timeline: "Oct 2020"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://zindi.africa/competitions/layerai-air-quality-prediction-challenge"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Use Sentinel 5P data to predict air quality in Kampala for AirQo. Out of 684 data scientists worldwide enrolled, I finished 11th on the leaderboard.
+  timeline: "21 July 2023 - 03 November 2023"
+  repo: https://github.com/TauilHafsa/CGIAR-Eyes-on-the-Ground-Challenge-Zindi-Competition- # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: The objective of this challenge is to create a machine learning model to Predict drought damage from smartphone images of crops.
   tags: ["competition", "Deep Learning", "Machine Learning", "Zindi"]
 
-- name: Tweet Sentiment Extraction
+- name: Drowsiness detection while driving
   # logo: /images/sections/projects/kubernetes.png
   role: Developer
-  timeline: "Mar 2020 - Jun 2020"
-  #repo: https://github.com/TAUIL-Abd-Elilah/Generative-Adversarial-Networks--GANs/tree/main # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "https://www.kaggle.com/competitions/tweet-sentiment-extraction"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Extract support phrases for sentiment labels. Out of 2225 data scientists worldwide, I finished 43th on the leaderboard (Top 2%).
-  tags: ["competition", "Deep Learning", "Tensorflow", "Keras", "Transfermers", "Kaggle"]
-
+  timeline: "2023"
+  repo: https://github.com/TauilHafsa/Drowsiness-detection-while-driving # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://www.kaggle.com/competitions/playground-series-s3e11"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: developed a comprehensive solution to prevent drivers from falling asleep while driving, utilizing the power of deep learning (PyTorch) and OpenCV.
+  tags: ["Academic", "Deep Learning", "Machine Learning", "OpenCV"]
