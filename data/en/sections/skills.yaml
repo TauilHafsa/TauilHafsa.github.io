@@ -31,16 +31,12 @@ skills:
 
 - name: Computer Vision
   logo: /images/sections/skills/cv.png
-  summary: "Computer vision expert, I apply deep learning techniques for object detection, image recognition/classification, segmentation tasks, generate new images, and more, delivering state-of-the-art solutions, and write a clean, simple and readable implementation of various state of the art research papers"
-
-- name: natural language processin
-  logo: /images/sections/skills/nlp.png
-  summary: "I leverage deep learning models for text classification, sentiment analysis, and machine translation, unlocking insights from massive text datasets."
+  summary: "I apply deep learning techniques for object detection, image recognition/classification, and segmentation tasks."
 
 - name: Technical Writer
   logo: /images/sections/skills/tw.png
-  summary: "Writing articles and code implementation centered on explaining nuanced concepts in deep learning and artificial intelligence with a particular focus on computer vision applications."
-  url: "https://blog.paperspace.com/author/abd/"
+  summary: "Writing articles and code implementation."
+  url: "https://medium.com/@hasfatauil12"
   
 - name: Git
   logo: /images/sections/skills/git.png
