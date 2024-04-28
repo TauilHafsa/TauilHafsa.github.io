@@ -68,10 +68,10 @@ softSkills:
   percentage: 90
   color: sky
 - name: Critical thinking
-  percentage: 95
+  percentage: 90
   color: blue
 - name: Story telling
-  percentage: 98
+  percentage: 95
   color: yellow
 - name: Adaptability
   percentage: 90
