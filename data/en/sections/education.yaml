@@ -17,9 +17,7 @@ degrees:
   institution:
     name: ENSA, Tetouan
     url: "https://ensa-tetouan.ac.ma/"
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
+
 
   #extracurricularActivities: #(optional)
   #- In vitae facilisis est, eget porta sem.
