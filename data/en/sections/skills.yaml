@@ -14,40 +14,20 @@ skills:
 - name: Python
   logo: /images/sections/skills/python.png
   summary: " I have considerable knowledge in developing user-friendly data analysis applications in Python, which help data scientists solve complex problems such as wrangling, developing algorithms or building insightful visualizations.For example, I can help with core Python as well as deep-learning libraries, and assist you in spotting those insights that would otherwise be hidden inside datasets."
-
+  url : https://www.python.org/
+  
 - name: Machine Learning
   logo: /images/sections/skills/ml.png
   summary: "Skilled in machine learning, I develop impactful models, and advanced statistical techniques. My expertise transforms complex data into actionable insights, contributing to advanced researchand informed decision-making."
-  url : https://www.python.org/
   
 - name: Deep learning
   logo: /images/sections/skills/dl.png
-  summary: "Equipped with a strong understanding of theoretical concepts and the latest advancements in deep learning research, I possess expertise in applying various architectures (e.g., CNNs, LSTMs, Transformers)for diverse tasks like image recognition, natural language processing, and time series forecasting. Leveraging my proficiency in deep learning frameworks, I skillfully develop, train, and evaluate models,while employing data preprocessing, cleaning, and augmentation techniques for optimal performance."
+  summary: "Equipped with a strong understanding of theoretical concepts in deep learning, I possess expertise in applying various architectures (e.g., CNNs, LSTMs, Transformers) for diverse tasks like image recognition, and time series forecasting. Leveraging my proficiency in deep learning frameworks, I skillfully develop, train, and evaluate models,while employing data preprocessing, cleaning, and augmentation techniques for optimal performance."
 
 - name: Pytorch
   logo: /images/sections/skills/pytorch.png
-  summary: "Proficient in PyTorch, I build and train deep learning models, leveraging expertise in architecture design, tensor optimization, and cutting-edge training algorithms. This skillset enables me to deliver high-performing solutions for diverse applications."
+  summary: "I build and train deep learning models, leveraging expertise in architecture design, tensor optimization, and cutting-edge training algorithms. This skillset enables me to deliver high-performing solutions for diverse applications."
   url: "https://pytorch.org/"
-  
-- name: TensorFlow
-  logo: /images/sections/skills/tf.webp
-  summary: "Leveraging TensorFlow, I adeptly build, train, and deploy deep learning models for diverse tasks."
-  url: "https://www.tensorflow.org/"
-  
-- name: Keras
-  logo: /images/sections/skills/k.png
-  summary: "Highly proficient in Keras, I efficiently design and implement deep learning models for various tasks, leveraging its user-friendly API and powerful functionalities."
-  url: "https://keras.io/"
-
-- name: Fast.ai
-  logo: /images/sections/skills/f.png
-  summary: "Equipped with fast.ai's high-level components, I rapidly build and iterate on deep learning models, achieving state-of-the-art results with ease."
-  url: "https://www.fast.ai/"
-
-- name: JAX
-  logo: /images/sections/skills/jax.png
-  summary: "Equipped with JAX, I leverage its functional programming paradigm and high-performance capabilities to build and train advanced deep learning models, accelerating research and development."
-  url: "https://jax.readthedocs.io/en/latest/index.html"
 
 - name: Computer Vision
   logo: /images/sections/skills/cv.png
