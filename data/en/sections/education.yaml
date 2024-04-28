@@ -10,82 +10,32 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Researcher PHD Student - E-Fashion in Deep Learning
-  icon: fa-microscope
-  timeframe: 2021 - Present
+    
+- name: Computer engineering student
+  icon: fa-graduation-cap
+  timeframe: 2023-Present
   institution:
-    name: Abdelmalek Essaadi University, Tetouan
-    url: "https://www.fst.ac.ma/site/"
-  extracurricularActivities: #(optional)
-  - Competition officer in Club InfoMath - FS Tetouan
-  - Kaggle expert (competition and notebooks)
+    name: ENSA, Tetouan
+    url: "https://ensa-tetouan.ac.ma/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
 
-- name: Master of Science in Computer engineering
-  icon: fa-graduation-cap
-  timeframe: 2018-2020
-  institution:
-    name: Abdelmalek Essaadi University, Tetouan
-    url: "https://www.fst.ac.ma/site/"
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    collapseAfter: 12
-    courses:
-    - name: Complexity of Algorithms
-    - name: Combinatorial Optimization
-    - name: Advanced Object Oriented Programming
-    - name: Image processing
-    - name: Machine Learning
-    - name: Advanced urbanization systems
-    - name: Pervasive information systems
-    - name: IP technology
-    - name: Decision-making tools
-    - name: Business Management
-    - name: Design and Distributed Applications
-    - name: Human Machine Interface
-    
-    
-- name: Bachelor's degree in Mathematics and Computer Science
-  icon: fa-graduation-cap
-  timeframe: 2017-2018
-  institution:
-    name: Abdelmalek Essaadi University, Tetouan
-    url: "https://www.fst.ac.ma/site/"
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    collapseAfter: 5
-    courses:
-    - name: Object-oriented programming (JAVA)
-    - name: Unified Modeling Language (UML)
-    - name: Compilation
-    - name: Security and cryptography
-    - name: Operational Research
   #extracurricularActivities: #(optional)
   #- In vitae facilisis est, eget porta sem.
   #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   #- Duis sed massa feugiat, ornare justo et, aliquam est.
   #- Pellentesque ut fringilla magna.
   
-- name: General University Studies Diploma in Mathematics and Computer Science
+- name: CPGE MP
   icon: fa-graduation-cap
-  timeframe: 2015-2017
+  timeframe: 2021-2023
   institution:
-    name: Abdelmalek Essaadi University, Tetouan
-    url: "https://www.fst.ac.ma/site/"
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    collapseAfter: 4
-    courses:
-    - name: Data Structures and Algorithm
-    - name: Network Security
-    - name: Operating System
-    - name: Web development
+    name: preparatory classes, Tetouan
 
 - name: Baccalaureate in Mathematical Science
   icon: fa-school
-  timeframe: 2014-2015
+  timeframe: 2020-2021
   institution:
-    name: High school Hassan II, Tetouan
+    name: High school yacoub el mansour, Fnideq
     url: "#"
