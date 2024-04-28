@@ -30,6 +30,7 @@ degrees:
   timeframe: 2021-2023
   institution:
     name: preparatory classes, Tetouan
+    url: "#"
 
 - name: Baccalaureate in Mathematical Science
   icon: fa-school
