@@ -24,7 +24,7 @@ languages:
     languageName: English
     weight: 1
   fr:
-    languageName: France
+    languageName: French
     weight: 1
 
 
