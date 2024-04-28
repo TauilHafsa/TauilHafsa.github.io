@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Lucky
+designation: computer engineering student
 # your company information
 company:
-  name: Lucky
-  url: "#"
+  name: ENSA 
+  url: "https://ensa-tetouan.ac.ma/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
@@ -20,7 +20,8 @@ company:
 
 # a summary about you
 summary: '
-I’m TAUIL Hafsa, born in 2004. A computer science student, I am lucky, passionate about data science and artificial Iintelligence, Eager for new challenges.
+My name is TAUIL Hafsa, born in 2004. I earned a Mathematics B Baccalaureate in 2021, followed my studies as an MP student in CPGE, and am currently pursuing a degree in computer engineering at ENSATE. 
+My passion lies in exploring the realms of Data Science and Artificial Intelligence, challenging by wonder to make machines able to think, behave, and analyze like a human brain..
 '
 
 # your social links
@@ -28,17 +29,20 @@ I’m TAUIL Hafsa, born in 2004. A computer science student, I am lucky, passion
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "tauilabdelilah97@gmail.com"
+  url: "hasfatauil12@gmail.com"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/tauil-abd-elilah/"
+  url: "https://www.linkedin.com/in/tauil-hafsa/"
   
 - name: Github
   icon: "fab fa-github"
-  url: "https://github.com/TAUIL-Abd-Elilah"
+  url: "https://github.com/TauilHafsa"
 
-
+- name: medium
+  icon: "fab fa-medium"
+  url: "https://medium.com/@hasfatauil12e"
+  
 - name: Kaggle
   icon: "fab fa-kaggle"
   url: "https://www.kaggle.com/tauilabdelilah/Home"
@@ -61,18 +65,18 @@ softSkills:
   percentage: 90
   color: orange
 - name: Fast Learner
-  percentage: 95
+  percentage: 90
   color: sky
 - name: Critical thinking
-  percentage: 85
+  percentage: 95
   color: blue
-- name: Creativity
-  percentage: 90
+- name: Story telling
+  percentage: 98
   color: yellow
-- name: Communication
-  percentage: 85
+- name: Adaptability
+  percentage: 90
   color: pink
-- name: Intellectual curiosity
+- name: Curiosity
   percentage: 90
   color: green
 
