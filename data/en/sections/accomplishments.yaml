@@ -12,27 +12,27 @@ section:
 # Your accomplishments
 accomplishments:
 
-- name: Generative AI for Everyone
-  timeline: "Dec 9, 2023"
+- name: Improving Deep Neural Networks by Hyperparameter Tuning, Regularization and Optimization
+  timeline: "Feb 2021"
   organization:
     name: Coursera - DeepLearning.AI
     url: https://www.coursera.org/deeplearning-ai
-  courseOverview: This course will introduce you to the fascinating world of generative AI, covering what it is, how it works, and its common use cases. You'll explore the capabilities and limitations of generative AI technologies, understanding what they can and cannot do. Additionally, you'll learn to navigate the lifecycle of a generative AI project, from conception to launch, including building effective prompts to guide the generative process. Moreover, you'll examine the potential opportunities and risks that generative AI technologies present to individuals, businesses, and society, gaining a comprehensive understanding of this rapidly evolving field.
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/NFYQJET7RR4F"
+  courseOverview: This is the second course of the Deep Learning Specialization, you will open the deep learning black box to understand the processes that drive performance and generate good results systematically. By the end, you will learn the best practices to train and develop test sets and analyze bias/variance for building deep learning applications; be able to use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence; and implement a neural network in TensorFlow.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/ECXPNZ6YA9HQ"
   
-- name: Advanced Learning Algorithms
-  timeline: "May 31, 2023"
+- name: Neural Networks and Deep Learning
+  timeline: "Feb 2021"
   organization:
     name: Coursera - DeepLearning.AI
     url: https://www.coursera.org/deeplearning-ai
-  courseOverview: In this comprehensive course, you'll learn to build and train neural networks using TensorFlow for multi-class classification tasks. You'll also discover best practices for machine learning development, ensuring that your models generalize well to real-world data and tasks. Additionally, you'll master decision trees and tree ensemble methods, including random forests and boosted trees, to further enhance your machine learning skills. By the end of the course, you'll be equipped with the knowledge and techniques to tackle a variety of machine learning challenges effectively.
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/LQXDNTPCUS92"
+  courseOverview: This is the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/Y6NT5TR3XA4K"
   
-- name: Supervised Machine Learning: Regression and Classification
-  timeline: "May 27, 2023"
+- name: Learn BERT - most powerful NLP algorithm by Google
+  timeline: "Apr 2020"
   organization:
-    name: Coursera - DeepLearning.AI
-    url: https://www.coursera.org/deeplearning-ai
-  courseOverview: This course is designed to provide you with the essential skills to build machine learning models in Python using popular libraries such as NumPy and scikit-learn. You'll learn to build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression. By the end of the course, you'll be proficient in using these libraries to tackle real-world problems and build robust machine learning models with confidence.
-  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/2JWN3J32CCK7"
+    name: Udemy
+    url: https://www.udemy.com/course/bert-nlp-algorithm/
+  courseOverview: Understand and apply Google's game-changing NLP algorithm to real-world tasks. Build 2 NLP applications.
+  certificateURL: "https://www.udemy.com/certificate/UC-55708717-8ea5-482a-8f7b-92bac1815506/"
  
