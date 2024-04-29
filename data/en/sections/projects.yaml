@@ -39,7 +39,7 @@ projects:
   timeline: "21 July 2023 - 03 November 2023"
   repo: https://github.com/TauilHafsa/CGIAR-Eyes-on-the-Ground-Challenge-Zindi-Competition- # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: The objective of this challenge is to create a machine learning model to Predict drought damage from smartphone images of crops.
+  summary: The objective of this challenge was to create a machine learning model to Predict drought damage from smartphone images of crops.
   tags: ["competition", "Deep Learning", "Machine Learning", "Zindi"]
 
 - name: Drowsiness detection while driving
@@ -48,5 +48,5 @@ projects:
   timeline: "2023"
   repo: https://github.com/TauilHafsa/Drowsiness-detection-while-driving # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: "https://www.kaggle.com/competitions/playground-series-s3e11"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: developed a comprehensive solution to prevent drivers from falling asleep while driving, utilizing the power of deep learning (PyTorch) and OpenCV.
+  summary: I developed a comprehensive solution to prevent drivers from falling asleep while driving, utilizing the power of deep learning (PyTorch) and OpenCV.
   tags: ["academic", "Deep Learning", "Machine Learning", "OpenCV"]
