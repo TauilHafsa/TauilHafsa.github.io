@@ -30,7 +30,7 @@ projects:
   timeline: "2024"
   repo: https://github.com/TauilHafsa/Academic-Projects/tree/main/Automaton%20manipulation # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: We aim to develop a program capable of reading and storing in memory an automaton A from a .txt file. Subsequently, we will implement some basic algorithms for automaton manipulation.
+  summary: I developed a program capable of reading and storing in memory an automaton A from a .txt file. Subsequently, I implemented some basic algorithms for automaton manipulation.
   tags: ["academic", "C", "language theory"]
 
 - name: CGIAR Eyes on the Ground Challenge Zindi Competition
