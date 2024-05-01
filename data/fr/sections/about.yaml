@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: À propos
   id: about
   enable: true
   weight: 1
@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: ÉtudiantE en génie informatique
+designation: Étudiante en génie informatique
 # your company information
 company:
   name: ENSA 
@@ -61,22 +61,22 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 softSkills:
-- name: Problem Solving
+- name: Résolution de problèmes
   percentage: 90
   color: orange
-- name: Fast Learner
+- name: Apprenant rapide
   percentage: 90
   color: sky
-- name: Critical thinking
+- name: Pensée critique
   percentage: 90
   color: blue
-- name: Story telling
+- name: Raconter des histoires
   percentage: 95
   color: yellow
-- name: Adaptability
+- name: Adaptabilité
   percentage: 90
   color: pink
-- name: Curiosity
+- name: Curiosité
   percentage: 90
   color: green
 
