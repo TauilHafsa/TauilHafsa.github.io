@@ -48,5 +48,5 @@ projects:
   timeline: "2023"
   repo: https://github.com/TauilHafsa/Drowsiness-detection-while-driving # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: "https://www.kaggle.com/competitions/playground-series-s3e11"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary:J'ai développé une solution complète pour prévenir les conducteurs de s'endormir au volant, en utilisant la puissance de l'apprentissage profond (PyTorch) et OpenCV.
+  summary: J'ai développé une solution complète pour prévenir les conducteurs de s'endormir au volant, en utilisant la puissance de l'apprentissage profond (PyTorch) et OpenCV.
   tags: ["Académique", "Deep Learning", "Machine Learning", "OpenCV"]
