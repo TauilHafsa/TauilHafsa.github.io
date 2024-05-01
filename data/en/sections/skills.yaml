@@ -47,7 +47,7 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "I'm skilled in Git for managing project versions and collaborating with others, and in Jira for organizing tasks and tracking project progress effectively. Additionally, I'm familiar with GitHub, where I host my Git repositories, collaborate with teams, and contribute to open-source projects."
+  summary: "I have some knowledge of Linux, from its core architecture to navigating the command line. I'm skilled in handling files, configuring systems, and automating tasks using scripting languages."
 
 - name: Docker
   logo: /images/sections/skills/docker.png
