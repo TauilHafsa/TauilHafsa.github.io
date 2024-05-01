@@ -1,0 +1,87 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: ÉtudiantE en génie informatique
+# your company information
+company:
+  name: ENSA 
+  url: "https://ensa-tetouan.ac.ma/"
+
+# your resume. this file path should be relative to you "static" directory
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: '
+Je m'appelle Hafsa TAUIL, née en 2004. J'ai obtenu un baccalauréat en mathématiques en 2021, suivi mes études en tant qu'étudiante MP en CPGE, et je poursuis actuellement un diplôme en génie informatique à l'ENSATE. 
+Ma passion réside dans l'exploration des domaines de la science des données et de l'intelligence artificielle, stimulée par la curiosité de créer des machines capables de penser, de se comporter et d'analyser comme le cerveau humain.
+'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "hasfatauil12@gmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/tauil-hafsa/"
+  
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/TauilHafsa"
+
+- name: medium
+  icon: "fab fa-medium"
+  url: "https://medium.com/@hasfatauil12e"
+  
+- name: Kaggle
+  icon: "fab fa-kaggle"
+  url: "https://www.kaggle.com/tauilabdelilah/Home"
+
+- name: Zindi
+  icon: "fas fa-solid fa-z"
+  url: "https://zindi.africa/users/TAUIL_Abdelilah"
+
+# You can put custom buttons to link your relevant resources.
+# For example, you can put link for your resume.
+resourceLinks:
+- title: "My Resume"
+  url: "files/resume.pdf"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+softSkills:
+- name: Problem Solving
+  percentage: 90
+  color: orange
+- name: Fast Learner
+  percentage: 90
+  color: sky
+- name: Critical thinking
+  percentage: 90
+  color: blue
+- name: Story telling
+  percentage: 95
+  color: yellow
+- name: Adaptability
+  percentage: 90
+  color: pink
+- name: Curiosity
+  percentage: 90
+  color: green
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

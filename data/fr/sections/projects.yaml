@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: Tous
+  filter: "Tous"
+- name: Professionnelle
+  filter: "Professionnelle"
+- name: Académique
+  filter: "Académique"
+- name: Compétition 
+  filter: "Compétition"
+- name: Loisir
+  filter: "Loisir"
+
+# your projects
+projects:
+  
+- name: Manipulation d'automates
+  # logo: /images/sections/projects/kubernetes.png
+  role: Développeuse
+  timeline: "2024"
+  repo: https://github.com/TauilHafsa/Academic-Projects/tree/main/Automaton%20manipulation # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: J'ai développé un programme capable de lire et de stocker en mémoire un automate A à partir d'un fichier .txt. Ensuite, j'ai implémenté quelques algorithmes de base pour manipuler l'automate.
+  tags: ["Académique", "C", "Théory de Langages"]
+
+- name: CGIAR Eyes on the Ground Challenge Zindi Competition
+  # logo: /images/sections/projects/kubernetes.png
+  role: Développeuse
+  timeline: "21 Juillet 2023 - 03 Novembre 2023"
+  repo: https://github.com/TauilHafsa/CGIAR-Eyes-on-the-Ground-Challenge-Zindi-Competition- # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: L'objectif de ce défi était de créer un modèle d'apprentissage automatique pour prédire les dommages dus à la sécheresse à partir d'images de cultures prises avec un smartphone.
+  tags: ["Compétition", "Deep Learning", "Machine Learning", "Zindi"]
+
+- name: Détection de la somnolence du conducteur
+  # logo: /images/sections/projects/kubernetes.png
+  role: Développeuse
+  timeline: "2023"
+  repo: https://github.com/TauilHafsa/Drowsiness-detection-while-driving # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://www.kaggle.com/competitions/playground-series-s3e11"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary:J'ai développé une solution complète pour prévenir les conducteurs de s'endormir au volant, en utilisant la puissance de l'apprentissage profond (PyTorch) et OpenCV.
+  tags: ["Académique", "Deep Learning", "Machine Learning", "OpenCV"]

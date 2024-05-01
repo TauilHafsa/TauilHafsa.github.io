@@ -1,0 +1,40 @@
+# section information
+section:
+  name: Education
+  id: éducation
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 2 
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+    
+- name: ÉtudiantE en génie informatique
+  icon: fa-graduation-cap
+  timeframe: 2023-Présent
+  institution:
+    name: ENSA, Tetouan
+    url: "https://ensa-tetouan.ac.ma/"
+
+
+  #extracurricularActivities: #(optional)
+  #- In vitae facilisis est, eget porta sem.
+  #- Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  #- Duis sed massa feugiat, ornare justo et, aliquam est.
+  #- Pellentesque ut fringilla magna.
+  
+- name: CPGE MP
+  icon: fa-graduation-cap
+  timeframe: 2021-2023
+  institution:
+    name: preparatory classes, Tetouan
+    url: "#"
+
+- name: Baccalauréat Science Mathématique B
+  icon: fa-school
+  timeframe: 2020-2021
+  institution:
+    name: Lycée Yacoub El Mansour, Fnideq
+    url: "#"

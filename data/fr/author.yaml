@@ -1,0 +1,17 @@
+# some information about you
+name: "TAUIL Hafsa"
+nickname: "Hafsa"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Bonjour, je suis"
+image: "images/author/a - Copy.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "hasfatauil12@gmail.com"
+  github: TauilHafsa
+  linkedin: tauil-hafsa
+
+# some summary about what you do
+summary:
+  - Je suis étudiant en géni informatique.
+  - Passionné par la science des données et l'intelligence artificielle.
+  - Prêt pour de nouveaux défis !

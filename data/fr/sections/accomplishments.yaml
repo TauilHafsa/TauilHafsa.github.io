@@ -1,0 +1,38 @@
+# section information
+section:
+  name: RÉALISATIONS
+  id: RÉALISATIONS
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+
+- name: Generative AI for Everyone
+  timeline: "Dec 9, 2023"
+  organization:
+    name: Coursera - DeepLearning.AI
+    url: https://www.coursera.org/deeplearning-ai
+  courseOverview: Ce cours vous plongera dans le monde fascinant de l'intelligence artificielle générative, couvrant son fonctionnement, ses cas d'utilisation courants, et sa conception de projets. Vous explorerez ses capacités et limites, et examinerez les opportunités et risques pour les individus et les entreprises.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/NFYQJET7RR4F"
+  
+- name: Advanced Learning Algorithms
+  timeline: "Mai 31, 2023"
+  organization:
+    name: Coursera - DeepLearning.AI
+    url: https://www.coursera.org/deeplearning-ai
+  courseOverview: Dans ce cours, vous apprendrez à construire et entraîner des réseaux neuronaux avec TensorFlow pour des tâches de classification multi-classes. Vous découvrirez les meilleures pratiques pour garantir que vos modèles se généralisent bien aux données réelles. De plus, vous maîtriserez les arbres de décision et les méthodes d'ensemble d'arbres comme les forêts aléatoires et les arbres boostés. À la fin du cours, vous serez prêt à relever divers défis en apprentissage automatique.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/LQXDNTPCUS92"
+  
+- name: Supervised Machine Learning
+  timeline: "Mai 2023"
+  organization:
+    name: Coursera - DeepLearning.AI
+    url: https://www.coursera.org/deeplearning-ai
+  courseOverview: Ce cours vous fournira les compétences essentielles pour construire des modèles d'apprentissage automatique en Python avec NumPy et scikit-learn. Vous apprendrez à créer et à entraîner des modèles pour la prédiction et la classification binaire, y compris la régression linéaire et logistique. À la fin du cours, vous maîtriserez ces bibliothèques pour résoudre des problèmes réels avec confiance.
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/2JWN3J32CCK7"
+ 

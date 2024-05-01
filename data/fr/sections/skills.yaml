@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Compétances
+  id: Compétances
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: " J'ai une connaissance considérable dans le développement d'applications d'analyse de données en Python, qui aident les scientifiques des données à résoudre des problèmes complexes tels que la manipulation de données, le développement d'algorithmes ou la création de visualisations perspicaces. Par exemple, je peux aider avec le Python de base ainsi que les bibliothèques d'apprentissage en profondeur, et vous aider à repérer ces insights qui seraient autrement cachés dans les ensembles de données."
+  url : https://www.python.org/
+  
+- name: Apprentissage Automatique
+  logo: /images/sections/skills/ml.png
+  summary: "Expert en apprentissage automatique, je développe des modèles impactants et des techniques statistiques avancées. Mon expertise transforme des données complexes en informations exploitables, contribuant ainsi à la recherche avancée et à la prise de décision éclairée."
+  
+- name: Apprentissage Profond
+  logo: /images/sections/skills/dl.png
+  summary: "Doté d'une solide compréhension des concepts théoriques en apprentissage profond, je possède une expertise dans l'application de diverses architectures (par exemple, CNN, LSTMs, Transformers) pour des tâches diverses telles que la reconnaissance d'images et la prévision de séries chronologiques. En exploitant ma maîtrise des cadres d'apprentissage profond, je développe, entraîne et évalue habilement des modèles, tout en utilisant des techniques de prétraitement, de nettoyage et d'augmentation des données pour des performances optimales."
+
+- name: Pytorch
+  logo: /images/sections/skills/pytorch.png
+  summary: "I build and train deep learning models, leveraging expertise in architecture design, tensor optimization, and cutting-edge training algorithms. This skillset enables me to deliver high-performing solutions for diverse applications."
+  url: "https://pytorch.org/"
+
+- name: Computer Vision
+  logo: /images/sections/skills/cv.png
+  summary: "J'applique des techniques d'apprentissage profond pour la détection d'objets, la reconnaissance/classification d'images et les tâches de segmentation."
+
+- name: SQL
+  logo: /images/sections/skills/sql.png
+  summary: "Je suis compétent en SQL, capable de gérer et d'interroger des bases de données de manière efficace. Cela inclut la conception de schémas de base de données, l'écriture de requêtes complexes et l'optimisation des performances des bases de données."
+- name: C
+  logo: /images/sections/skills/c.png
+  summary: "Je maîtrise le langage de programmation C, y compris sa syntaxe, ses structures de données et ses algorithmes. J'ai utilisé le C dans divers projets."
+
+- name: Web development
+  logo: /images/sections/skills/web.png
+  summary: "Expérimenté en HTML, CSS et PHP. Je possède une solide compréhension des technologies front-end telles que HTML et CSS pour la création d'interfaces conviviales, ainsi que du développement back-end utilisant PHP pour les applications web dynamiques."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "
+Je possède des connaissances de base en Linux, allant de son architecture de base à la navigation dans la ligne de commande. Je suis compétent pour gérer les fichiers, configurer les systèmes et automatiser les tâches à l'aide de langages de script"
+
+- name: Docker
+  logo: /images/sections/skills/docker.png
+  summary: "J'ai également une certaine expérience en Docker, me spécialisant dans la conteneurisation des environnements et des applications. Cela inclut la création d'images Docker, leur publication sur Docker Hub et la gestion efficace des conteneurs. De plus, j'ai de l'expérience avec Kubernetes, où je peux gérer des applications conteneurisées et les déployer à travers des clusters en utilisant YAML pour la configuration et Kubectl pour l'orchestration."
+
+- name: Technical Writer
+  logo: /images/sections/skills/tw.png
+  summary: "J'ai de l'expérience en tant que rédacteur technique, ayant rédigé des articles sur Medium. Ces articles expliquent non seulement des concepts techniques, mais incluent également des implémentations de code pour fournir des démonstrations pratiques, garantissant ainsi la clarté et la compréhension pour les lecteurs."
+  url: "https://medium.com/@hasfatauil12"
+  
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Je suis compétent en Git pour la gestion des versions de projet et la collaboration avec d'autres personnes, et en Jira pour l'organisation des tâches et le suivi efficace de la progression du projet. De plus, je suis familier avec GitHub, où je héberge mes dépôts Git, collabore avec des équipes et contribue à des projets open-source."
+  url: "https://git-scm.com/"
+
