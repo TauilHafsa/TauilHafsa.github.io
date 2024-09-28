@@ -18,8 +18,6 @@ buttons:
   filter: "academic"
 - name: Competition
   filter: "competition"
-- name: Hobby
-  filter: "hobby"
 
 # your projects
 projects:
@@ -33,14 +31,60 @@ projects:
   summary: I developed a program capable of reading and storing in memory an automaton A from a .txt file. Subsequently, I implemented some basic algorithms for automaton manipulation.
   tags: ["academic", "C", "language theory"]
 
-- name: CGIAR Eyes on the Ground Challenge Zindi Competition
+- name: Online learning platform
   # logo: /images/sections/projects/kubernetes.png
   role: Developer
+  timeline: "2024"
+  repo: https://github.com/TauilHafsa/Academic-Projects/tree/main/Online%20learning%20platform
+  You can find the demo in this URL: https://drive.google.com/file/d/1SudjZsd7Vi71Mm8fSMNLfTAzuB7vKYDb/view
+  summary: This project creates an online learning platform where teachers manage courses and students access them. Teachers add courses and respond to questions, while students enroll and download resources. Administrators manage users and courses.
+  tags: ["academic", "PHP", "CSS", "JavaScript"]
+
+- name: Socket and Data Structures
+  # logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "2024"
+  repo: https://github.com/TauilHafsa/Academic-Projects/tree/main/Socket%20and%20Data%20Structures
+  #url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: This project aims to develop two applications in C using sockets and data structures to manage connections, authentication, and interactions between a client and a server.
+  tags: ["academic", "C", "socket"]
+
+  - name: Sorting Algorithms
+  # logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "2024"
+  repo: https://github.com/TauilHafsa/Academic-Projects/tree/main/Sorting%20Algorithms
+  #url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Sorting algorithms arrange data in order to make it easier to use and improve performance. This includes implementations in C of selection, insertion, bubble, quick, and merge sorts.
+  tags: ["academic", "C"]
+
+- name: CGIAR Eyes on the Ground Challenge Zindi Competition
+  # logo: /images/sections/projects/kubernetes.png
+  role: Data Scientist
   timeline: "21 July 2023 - 03 November 2023"
   repo: https://github.com/TauilHafsa/Competitions/tree/main/Zindi/CGIAR-Eyes-on-the-Ground-Challenge-Zindi-Competition
   url: "https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: The objective of this challenge was to create a machine learning model to Predict drought damage from smartphone images of crops.
   tags: ["competition", "Deep Learning", "Machine Learning", "Zindi"]
+
+- name: LMSYS - Chatbot Arena Human Preference Predictions
+  # logo: /images/sections/projects/kubernetes.png
+  role: Data Scientist
+  timeline: "May 2, 2024 - May 2, 2024"
+  repo: https://github.com/TauilHafsa/Competitions/tree/main/LMSYS%20-%20Chatbot%20Arena%20Human%20Preference%20Predictions
+  url: "https://www.kaggle.com/competitions/lmsys-chatbot-arena"
+  summary: This competition challenges you to predict which responses users will prefer in a head-to-head battle between chatbots powered by large language models (LLMs).
+  tags: ["competition", "Deep Learning", "LLMs", "PyTorch", "LoRA", "Kaggle"]
+
+- name: CGIAR Eyes on the Ground Challenge Zindi Competition
+  # logo: /images/sections/projects/kubernetes.png
+  role: Data Scientist
+  timeline: "2024/4/15 - 2024/8/26"
+  repo: https://github.com/TauilHafsa/Competitions/tree/main/Field%20Area%20Segmentation
+  url: "https://solafune.com/competitions/d91572d9-1680-4b9e-b372-25e71093f81a?menu=about&tab=schedule"
+  summary: The objective of this challenge is to perform instance segmentation on images of agricultural lands around the world, captured by the Sentinel-2 satellite.
+  tags: ["competition", "Deep Learning", "SAM", "CV", "Solafune"]
+
 
 - name: Drowsiness detection while driving
   # logo: /images/sections/projects/kubernetes.png
