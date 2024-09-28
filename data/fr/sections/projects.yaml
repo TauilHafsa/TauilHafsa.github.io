@@ -35,12 +35,57 @@ projects:
 
 - name: CGIAR Eyes on the Ground Challenge Zindi Competition
   # logo: /images/sections/projects/kubernetes.png
-  role: Développeuse
+  role: Data Scientist
   timeline: "21 Juillet 2023 - 03 Novembre 2023"
   repo: https://github.com/TauilHafsa/Competitions/tree/main/Zindi/CGIAR-Eyes-on-the-Ground-Challenge-Zindi-Competition
   url: "https://zindi.africa/competitions/cgiar-eyes-on-the-ground-challenge"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: L'objectif de ce défi était de créer un modèle d'apprentissage automatique pour prédire les dommages dus à la sécheresse à partir d'images de cultures prises avec un smartphone.
   tags: ["Compétition", "Deep Learning", "Machine Learning", "Zindi"]
+
+- name: Plateforme d'apprentissage en ligne
+  # logo: /images/sections/projects/kubernetes.png
+  role: Développeur
+  timeline: "2024"
+  repo: https://github.com/TauilHafsa/Academic-Projects/tree/main/Online%20learning%20platform
+  Vous pouvez trouver la démo à cette URL : https://drive.google.com/file/d/1SudjZsd7Vi71Mm8fSMNLfTAzuB7vKYDb/view
+  summary: Ce projet crée une plateforme d'apprentissage en ligne où les enseignants gèrent les cours et les étudiants y accèdent. Les enseignants ajoutent des cours et répondent aux questions, tandis que les étudiants s'inscrivent et téléchargent des ressources. Les administrateurs gèrent les utilisateurs et les cours.
+  tags: ["académique", "PHP", "CSS", "JavaScript"]
+
+- name: Socket et Structures de Données
+  # logo: /images/sections/projects/kubernetes.png
+  role: Développeuse
+  timeline: "2024"
+  repo: https://github.com/TauilHafsa/Academic-Projects/tree/main/Socket%20and%20Data%20Structures
+  #url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # Si votre projet n'est pas un dépôt public mais qu'il a un site web ou des détails externes, indiquez-le ici. Ne fournissez pas "repo" et "url" simultanément.
+  summary: Ce projet vise à développer deux applications en C utilisant des sockets et des structures de données pour gérer les connexions, l'authentification et les interactions entre un client et un serveur.
+  tags: ["académique", "C", "socket"]
+
+- name: Algorithmes de Tri
+  # logo: /images/sections/projects/kubernetes.png
+  role: Développeuse
+  timeline: "2024"
+  repo: https://github.com/TauilHafsa/Academic-Projects/tree/main/Sorting%20Algorithms
+  #url: "https://blog.paperspace.com/implementation-stylegan2-from-scratch/"  # Si votre projet n'est pas un dépôt public mais qu'il a un site web ou des détails externes, indiquez-le ici. Ne fournissez pas "repo" et "url" simultanément.
+  summary: Les algorithmes de tri ordonnent les données afin de faciliter leur utilisation et d'améliorer les performances. Cela inclut des implémentations en C des tris par sélection, insertion, bulle, rapide et fusion.
+  tags: ["académique", "C"]
+
+- name: LMSYS - Chatbot Arena Prédictions de Préférences Humaines
+  # logo: /images/sections/projects/kubernetes.png
+  role: Data Scientist
+  timeline: "2 mai 2024 - 2 mai 2024"
+  repo: https://github.com/TauilHafsa/Competitions/tree/main/LMSYS%20-%20Chatbot%20Arena%20Human%20Preference%20Predictions
+  url: "https://www.kaggle.com/competitions/lmsys-chatbot-arena"
+  summary: Cette compétition vous met au défi de prédire quelles réponses les utilisateurs préféreront dans un duel entre des chatbots alimentés par de grands modèles de langage (LLMs).
+  tags: ["compétition", "Deep Learning", "LLMs", "PyTorch", "LoRA", "Kaggle"]
+
+- name: CGIAR Eyes on the Ground Challenge Zindi Competition
+  # logo: /images/sections/projects/kubernetes.png
+  role: Data Scientist
+  timeline: "15/4/2024 - 26/8/2024"
+  repo: https://github.com/TauilHafsa/Competitions/tree/main/Field%20Area%20Segmentation
+  url: "https://solafune.com/competitions/d91572d9-1680-4b9e-b372-25e71093f81a?menu=about&tab=schedule"
+  summary: L'objectif de ce défi est de réaliser une segmentation d'instances sur des images de terres agricoles du monde entier, capturées par le satellite Sentinel-2.
+  tags: ["compétition", "Deep Learning", "SAM", "CV", "Solafune"]
 
 - name: Détection de la somnolence du conducteur
   # logo: /images/sections/projects/kubernetes.png
